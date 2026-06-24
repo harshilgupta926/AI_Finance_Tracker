@@ -30,8 +30,8 @@ An AI-powered finance tracking application built using **Python, Streamlit, and 
 
 AI-Finance-Tracker/
 │
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Required Python libraries
+├── Finance_Tracker.py     # Main Streamlit application
+├── Requirements.txt       # Required Python libraries
 ├── README.md              # Project documentation
 │
 └── data/

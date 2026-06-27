@@ -1,5 +1,3 @@
-
-```Markdown
 # AI Finance Tracker 📊
 
 An AI-powered finance tracking application built using **Python, Streamlit, and Groq API** that helps users analyze their financial data from CSV and Excel files. The application provides automated insights, spending analysis, and interactive visualizations to understand financial patterns easily.
@@ -15,14 +13,13 @@ An AI-powered finance tracking application built using **Python, Streamlit, and 
 - 📈 Identify spending trends and categories
 - ⚡ Fast and user-friendly Streamlit interface
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - **Python** - Core programming language
 - **Streamlit** - Web application framework
 - **Pandas** - Data processing and analysis
-- **OpenPyXL** - Excel file handling
-- **Groq API** - AI-powered financial analysis
-- **Matplotlib / Plotly** - Data visualization
+- **Plotly** - Interactive data visualization
+- **Groq API** - AI-powered financial insights generation
 
 ## 📁 Project Structure
 
@@ -125,9 +122,3 @@ The application will open in your browser.
 ## 👨‍💻 Author
 
 **Harshil Gupta**
-
-AI | Data Analytics | Python Projects
-
-
-You can directly paste this as your `README.md`.
-```
